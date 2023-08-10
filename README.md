@@ -1,1 +1,1 @@
-Distribuir sólo para pruebas. Versión aplha.
+Distribuir sólo para pruebas. Versión alpha.
